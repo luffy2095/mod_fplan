@@ -3,7 +3,7 @@
 #include<string.h>
 #include<unistd.h>
 #include<queue>
-#include "testheader.h"
+//c#include "testheader.h"
 #include "mailBox.h"
 using namespace std;
 int main()

@@ -1,4 +1,3 @@
-#ifndef STRUCTURES
 #define STRUCTURES
 using namespace std;
 typedef struct message
@@ -8,7 +7,6 @@ typedef struct message
 	int command;
 	void * data;
 }message;
-#endif
 //enum rec_sen
 //{
 //	OBC_,

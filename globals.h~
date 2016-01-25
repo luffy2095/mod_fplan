@@ -1,4 +1,4 @@
-#ifndef GLOBALS
+#ifndef 
 #define GLOBALS
 #include "structures.h"
 
@@ -17,4 +17,4 @@ extern queue<message> BCN;
 //extern map<string , rec_sen> rec_sen_map;     try Switch case again
 
 ///////////////////////////////////////////////////////////////////////////////////////////
-#endif
+
